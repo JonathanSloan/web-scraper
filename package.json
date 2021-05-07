@@ -1,0 +1,16 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "A simple puppeteer web scraper",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server index.html"
+  },
+  "author": "JonathanSloan <jonathanssloan@protonmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lite-server": "^2.6.1",
+    "node-html-parser": "^3.2.0"
+  }
+}
